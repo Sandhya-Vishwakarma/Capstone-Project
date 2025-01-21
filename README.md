@@ -1,2 +1,2 @@
-# Capstone-Project
+# Bakery-Project
 About bakery shop project
